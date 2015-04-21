@@ -1,0 +1,76 @@
+/* This is a CSS comment */
+
+body {
+  padding: 20px 10px;
+  font-family: Yevesa One;
+  max-width: 2000px;
+  margin: 0 auto;
+  font-size: 1.4em;
+}
+
+.SectionHeader {
+  background-color: teal;
+  font-family: Yevesa One;
+  border-radius: 80px;
+  padding: 20px;
+  margin: 5px auto;
+}
+
+.SectionContent {
+  font-family: Yevesa One;
+  margin: 20px 0;
+  background-color: #DFEAF1;
+  border-radius: 20px;
+}
+
+.SectionTitle {
+  font-family: Yevesa One;
+  margin: 10px 0;
+  font-size: 1.4em;
+  text-align: center;
+}
+
+.NotesDescription {
+  margin: 5px;
+}
+
+h1 {
+  margin: 0 auto;
+  max-width: 2000px;
+  font-family: Yeseva One;
+  text-align: center;
+  font-size: 50px;
+  color: #3d312d;
+  text-decoration: underline;
+  line-height: 44px;
+}
+
+h2 {
+  margin: 0 auto;
+  max-width: 2000px;
+  font-family: Yeseva One;
+  text-align: center;
+  font-size: 30px;
+  color: #3d312d;
+  line-height: 44px;
+}
+
+h3 {
+  margin: 0 auto;
+  max-width: 2000px;
+  font-family: Yeseva One;
+  text-align: center;
+  font-size: 1.8em;
+  color: white;
+  line-height: 44px;
+}
+
+p {
+  margin: 5px;
+}
+
+li {
+  font-size: 25px;
+  line-height: 54px;
+  font-family: Yeseva One;
+}
